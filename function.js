@@ -24,8 +24,17 @@ rand(20);
 
 //use node .load [filename]
  */
+
+/*
+
 function rand(num){
     return Math.floor(Math.random()*num);
 }
 
-rand(232);
+console.log(rand(232));
+
+var students = ["Bolu", "Priya", "Evan", "Jessy", "Christina"];
+
+console.log(students[rand(5)]);
+
+*/
