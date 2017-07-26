@@ -1,0 +1,18 @@
+body{
+  text-align:center;
+
+}
+.mike{
+  border: solid 3px pink;
+  background-color: springgreen;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding: 10%;
+}
+ img{
+   width: 200%;
+   vertical-allignment:center;
+ }
